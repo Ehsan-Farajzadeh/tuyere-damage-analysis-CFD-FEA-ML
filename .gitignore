@@ -1,1 +1,16 @@
+# Ignore data and outputs
+data/
+*.csv
+*.log
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Others
+.DS_Store
 
