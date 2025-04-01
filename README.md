@@ -18,12 +18,9 @@ tuyere-damage-analysis-CFD-FEA-ML/
 │   ├── xgboost_model.py
 │   ├── feature_analysis.py
 │   └── utils.py
-├── figures/            # Key plots, diagrams, and model outputs
 ├── notebooks/          # Interactive Jupyter Notebooks for demo and results
-├── results/            # Output summaries, charts, and metrics
 ├── README.md           # Project overview and instructions
 ├── .gitignore          # Files and folders to exclude from Git
-└── requirements.txt    # Python dependencies for ML components
 ```
 
 ---
