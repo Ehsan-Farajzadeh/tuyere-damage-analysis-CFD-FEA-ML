@@ -70,10 +70,6 @@ Some CFD/FEA datasets and CSV outputs used in this study are confidential and no
 
 ---
 
-## Citation
-If you use this work, please cite:
-> Farajzadeh E., Zhuo Y., Shen Y. (2024). Advanced predictive tuyere damage analysis using CFD, FEA, and Machine Learning methods. *In preparation.*
-
 ---
 
 ## License
